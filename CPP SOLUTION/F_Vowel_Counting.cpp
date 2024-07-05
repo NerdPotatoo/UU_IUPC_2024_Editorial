@@ -1,3 +1,5 @@
+// Code by Nerd_potato
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -20,6 +22,3 @@ int main()
     cout<<ans;
     return 0;
 }
-
-
-// YASIR ADNAN

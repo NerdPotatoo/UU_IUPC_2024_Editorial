@@ -1,3 +1,5 @@
+// Code by Nerd_potato
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -51,6 +53,3 @@ int main()
     else cout<<"NO\n";
     return 0;
 }
-
-
-// YASIR ADNAN

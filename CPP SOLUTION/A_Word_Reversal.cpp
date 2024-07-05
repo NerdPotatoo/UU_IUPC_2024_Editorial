@@ -1,3 +1,5 @@
+// Code by Nerd_potato
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -27,6 +29,3 @@ int main()
     }
     return 0;
 }
-
-
-// YASIR ADNAN
